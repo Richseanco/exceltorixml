@@ -1,0 +1,11 @@
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\bin\Debug\exceltorixml.exe.config
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\bin\Debug\exceltorixml.exe
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\bin\Debug\exceltorixml.pdb
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\obj\Debug\exceltorixml.csproj.AssemblyReference.cache
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\obj\Debug\exceltorixml.csproj.SuggestedBindingRedirects.cache
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\obj\Debug\exceltorixml.Form1.resources
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\obj\Debug\exceltorixml.Properties.Resources.resources
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\obj\Debug\exceltorixml.csproj.GenerateResource.cache
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\obj\Debug\exceltorixml.csproj.CoreCompileInputs.cache
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\obj\Debug\exceltorixml.exe
+C:\jaaacsoftware\git\mchny\exceltorixml\exceltorixml\obj\Debug\exceltorixml.pdb
